@@ -1,7 +1,7 @@
 # Deep Learning CS:GO Winners
 Predicting CS:GO Round Winners With Deep Learning.
 
-Check out the [Presentation](https://github.com/AndrewDettor/Deep-Learning-CSGO-Winners/blob/main/Presentation.pdf) and [Project Report](https://github.com/AndrewDettor/Deep-Learning-CSGO-Winners/blob/main/ProjectReport.pdf) for additional information and visuals.
+Check out the [Project Report](https://github.com/AndrewDettor/Deep-Learning-CSGO-Winners/blob/main/ProjectReport.pdf) for additional information.
 
 ![1](https://github.com/AndrewDettor/Deep-Learning-CSGO-Winners/blob/main/Presentation/csgo%20pres-1.jpg)
 ![2](https://github.com/AndrewDettor/Deep-Learning-CSGO-Winners/blob/main/Presentation/csgo%20pres-2.jpg)
